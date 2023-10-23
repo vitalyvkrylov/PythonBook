@@ -1,0 +1,5 @@
+distance = float(input('Введите число -> '))
+petrol = float(input('Введите число -> '))
+count_petrol = float(input('Введите число -> '))
+count_all = 2 * (distance / 100 * petrol * count_petrol)
+print('%.2f' % count_all)

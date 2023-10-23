@@ -1,0 +1,5 @@
+a = int(input('Введите число -> '))
+b = int(input('Введите число -> '))
+c = int(input('Введите число -> '))
+S = 2 * (a * b + a * c + b * c)
+print(S)

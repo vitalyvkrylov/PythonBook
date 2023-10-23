@@ -1,0 +1,1 @@
+the processor is the main component, it performs all the calculations in the computer

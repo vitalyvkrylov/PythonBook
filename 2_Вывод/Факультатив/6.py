@@ -1,0 +1,5 @@
+data1 = input('Введите артикул -> ')
+data2 = input('Введите наименование товара -> ')
+data3 = input('Введите количество -> ')
+data4 = input('Введите цену -> ')
+print(data1, data2, data3, data4)

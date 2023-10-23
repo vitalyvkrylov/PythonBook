@@ -1,0 +1,17 @@
+from graphics import *
+
+win = GraphWin("Окно с флагом", 600, 400)
+rect = Rectangle(Point(0, 0), Point(600, 400))
+rect.setFill("white")
+rect.draw(win)
+stripe1 = Rectangle(Point(0, 0), Point(600, 100))
+stripe1.setFill("white")
+stripe1.draw(win)
+stripe3 = Rectangle(Point(0, 100), Point(600, 300))
+stripe3.setFill("dark blue")
+stripe3.draw(win)
+stripe2 = Rectangle(Point(0, 300), Point(600, 400))
+stripe2.setFill("red")
+stripe2.draw(win)
+win.getMouse()
+win.close()

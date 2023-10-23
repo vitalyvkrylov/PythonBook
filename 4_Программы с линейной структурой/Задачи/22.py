@@ -1,0 +1,10 @@
+cost_water = float(input('Введите число -> '))
+count_water = float(input('Введите число -> '))
+cost_bread = float(input('Введите число -> '))
+count_bread = float(input('Введите число -> '))
+cost_cheese = float(input('Введите число -> '))
+count_cheese = float(input('Введите число -> '))
+count_sausage = float(input('Введите число -> '))
+cost_sausage = float(input('Введите число -> '))
+sum = cost_water * count_water + cost_bread * count_bread + cost_cheese * count_cheese + cost_sausage * count_sausage
+print(sum)

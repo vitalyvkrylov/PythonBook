@@ -1,0 +1,3 @@
+A graphics core can be built into the processor
+Then the installation of a video card in the computer may not be necessary
+the image will be output by the processor
