@@ -1,2 +1,2 @@
-summ = 50
-print('summ ->', summ)
+summ = 50  # присвоение переменной summ значения 50
+print('summ ->', summ)  # вывод результа (значения summ)
